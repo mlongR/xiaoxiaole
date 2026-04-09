@@ -1,0 +1,95 @@
+{
+  "levels": [
+    {
+      "id": 1,
+      "name": "数字世界",
+      "description": "学习基础数字",
+      "characters": ["一", "二", "三", "四", "五"],
+      "boardSize": 6,
+      "target": 20,
+      "timeLimit": 0,
+      "tutorial": true
+    },
+    {
+      "id": 2,
+      "name": "自然之美",
+      "description": "认识自然元素",
+      "characters": ["天", "地", "日", "月", "水", "火"],
+      "boardSize": 6,
+      "target": 30,
+      "timeLimit": 0
+    },
+    {
+      "id": 3,
+      "name": "我的身体",
+      "description": "认识身体部位",
+      "characters": ["人", "口", "手", "足", "目", "耳"],
+      "boardSize": 6,
+      "target": 35,
+      "timeLimit": 0
+    },
+    {
+      "id": 4,
+      "name": "彩虹世界",
+      "description": "学习颜色名称",
+      "characters": ["红", "黄", "蓝", "绿", "白", "黑"],
+      "boardSize": 6,
+      "target": 40,
+      "timeLimit": 0
+    },
+    {
+      "id": 5,
+      "name": "动物乐园",
+      "description": "认识动物名称",
+      "characters": ["鸟", "鱼", "虫", "马", "牛", "羊", "犬"],
+      "boardSize": 7,
+      "target": 50,
+      "timeLimit": 0
+    },
+    {
+      "id": 6,
+      "name": "美味食物",
+      "description": "认识食物名称",
+      "characters": ["米", "面", "果", "菜", "肉", "蛋", "豆"],
+      "boardSize": 7,
+      "target": 55,
+      "timeLimit": 0
+    },
+    {
+      "id": 7,
+      "name": "我的家庭",
+      "description": "学习家庭称谓",
+      "characters": ["爸", "妈", "爷", "奶", "哥", "姐", "弟"],
+      "boardSize": 7,
+      "target": 60,
+      "timeLimit": 120
+    },
+    {
+      "id": 8,
+      "name": "动作时间",
+      "description": "学习动作词汇",
+      "characters": ["走", "跑", "跳", "坐", "站", "睡", "吃", "喝"],
+      "boardSize": 7,
+      "target": 70,
+      "timeLimit": 120
+    },
+    {
+      "id": 9,
+      "name": "形容词世界",
+      "description": "学习形容词",
+      "characters": ["大", "小", "多", "少", "高", "低", "快", "慢"],
+      "boardSize": 8,
+      "target": 80,
+      "timeLimit": 90
+    },
+    {
+      "id": 10,
+      "name": "综合挑战",
+      "description": "复习已学汉字",
+      "characters": ["一", "二", "三", "天", "地", "人", "手", "口", "红", "大", "小", "走", "跑", "爸", "妈"],
+      "boardSize": 8,
+      "target": 100,
+      "timeLimit": 60
+    }
+  ]
+}

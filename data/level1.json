@@ -1,0 +1,10 @@
+{
+  "level": 1,
+  "name": "数字世界",
+  "description": "学习基础数字",
+  "characters": ["一", "二", "三", "四", "五"],
+  "boardSize": 6,
+  "target": 20,
+  "timeLimit": 0,
+  "tutorial": true
+}
